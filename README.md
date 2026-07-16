@@ -1,16 +1,82 @@
-# React + Vite
+<div align="center">
+  <img src="MarpxLogo.png" alt="Marpx AI Logo" width="120" />
+  <h1>Marpx AI</h1>
+  <p><strong>We don't just talk AI. We build it.</strong></p>
+  <p>
+    <a href="https://marpx.ai">Website</a> · 
+    <a href="mailto:marpxstudio@gmail.com">Contact Us</a> · 
+    <a href="tel:+918072917432">+91 80729 17432</a>
+  </p>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+---
 
-Currently, two official plugins are available:
+## Who We Are
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Marpx AI** is a premium AI agency helping businesses automate operations, deploy intelligent agents, and build custom AI systems — end to end.
 
-## React Compiler
+We work with startups, SMEs, and enterprises across industries to identify the AI opportunities that will actually move the needle, then we build them, deploy them, and train your team to use them.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> *Stop paying to experiment. Start paying for results.*
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## What We Do
+
+We offer six core service pillars, covering every layer of AI adoption:
+
+### ⚡ AI Automation Workflows
+Put your repetitive tasks on autopilot — lead capture, CRM, email/SMS/WhatsApp automation, invoicing, document processing, social media scheduling, e-commerce automation, and automated reporting.
+
+### ✨ General AI Services
+AI-powered creation and communication — content writing, image & design generation, video production, voiceover & transcription, chatbots, document processing (OCR), SEO optimization, and translation.
+
+### 🧠 AI Agents
+Dedicated AI teammates that work autonomously — customer support agents, voice agents, sales agents, marketing agents, executive assistants, document processing agents, HR agents, and operations agents.
+
+### 🔗 Autonomous & Multi-Agent Systems
+Complete AI-powered business systems where multiple agents work together — customer support systems, sales pipeline systems, marketing operations, back-office automation, enterprise knowledge systems, and custom multi-agent architectures.
+
+### ⚙️ Custom AI Development
+Bespoke AI built for your exact needs — custom AI applications, fine-tuned models, AI integration with existing software, RAG/knowledge base development, AI backend & API development, AI SaaS products, private/on-premise deployment, and AI security & governance.
+
+### 📚 AI Consulting & Training
+Expert guidance on your AI journey — strategy consulting, AI readiness assessments, implementation roadmaps, team workshops & training, adoption consulting, ROI optimization, ongoing advisory, and maintenance & support.
+
+---
+
+## Our Process
+
+```
+01 Assess  →  Understand your workflows, identify the 5% worth building
+02 Build   →  Move fast, build right, integrate seamlessly
+03 Deploy  →  Train your team, monitor, refine until it runs without us
+```
+
+---
+
+## Why Marpx AI
+
+- **Results-obsessed** — we only build what's worth building
+- **End-to-end delivery** — from strategy to deployment to training
+- **No hand-off and vanish** — we stay until it sticks
+- **Tool-agnostic** — we use what works best for your business
+- **Non-tech friendly** — we make AI understandable at every step
+
+---
+
+## Get in Touch
+
+Ready to build something real with AI?
+
+| Channel | Details |
+|---------|---------|
+| 📧 Email | [marpxstudio@gmail.com](mailto:marpxstudio@gmail.com) |
+| 📞 Phone | [+91 80729 17432](tel:+918072917432) |
+| 🌐 Website | [marpx.ai](https://marpx.ai) |
+
+---
+
+<div align="center">
+  <sub>© 2025 Marpx AI · Built with intelligence. Delivered with precision.</sub>
+</div>
