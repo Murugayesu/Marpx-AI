@@ -5,6 +5,8 @@
   <p>
     <a href="https://marpx.ai">Website</a> · 
     <a href="mailto:marpxstudio@gmail.com">Contact Us</a> · 
+    <a href="https://x.com/MarpxAI">X (Twitter)</a> · 
+    <a href="https://www.linkedin.com/in/murugayesu">LinkedIn</a> · 
     <a href="tel:+918072917432">+91 80729 17432</a>
   </p>
 </div>
@@ -74,6 +76,8 @@ Ready to build something real with AI?
 | 📧 Email | [marpxstudio@gmail.com](mailto:marpxstudio@gmail.com) |
 | 📞 Phone | [+91 80729 17432](tel:+918072917432) |
 | 🌐 Website | [marpx.ai](https://marpx.ai) |
+| 🐦 X (Twitter) | [x.com/MarpxAI](https://x.com/MarpxAI) |
+| 💼 LinkedIn | [linkedin.com/in/murugayesu](https://www.linkedin.com/in/murugayesu) |
 
 ---
 
