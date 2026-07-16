@@ -42,8 +42,8 @@ export default function Footer({ onContactOpen }) {
               <h4>Company</h4>
               <Link to="/">Home</Link>
               <Link to="/services">Services</Link>
-              <a href="#why">Why Us</a>
-              <a href="#faq">FAQ</a>
+              <Link to="/#why">Why Us</Link>
+              <Link to="/#faq">FAQ</Link>
               <button onClick={onContactOpen} className="footer__link-btn">Get in Touch</button>
             </div>
             <div className="footer__col">

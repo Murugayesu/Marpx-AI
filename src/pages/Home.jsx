@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import { serviceCategories } from '../data/services'
 import './Home.css'
 
@@ -123,6 +123,22 @@ const testimonials = [
 
 export default function Home({ onContactOpen }) {
   useReveal()
+  const location = useLocation()
+
+  useEffect(() => {
+    if (location.hash) {
+      const id = location.hash.replace('#', '')
+      const el = document.getElementById(id)
+      if (el) {
+        setTimeout(() => {
+          const y = el.getBoundingClientRect().top + window.scrollY - 80 // Adjust offset for navbar
+          window.scrollTo({ top: y, behavior: 'smooth' })
+        }, 100)
+      }
+    } else {
+      window.scrollTo(0, 0)
+    }
+  }, [location.hash])
 
   return (
     <main>

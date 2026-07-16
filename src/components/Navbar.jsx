@@ -32,10 +32,10 @@ export default function Navbar({ onContactOpen }) {
         </Link>
 
         <nav className={`navbar__nav ${menuOpen ? 'open' : ''}`}>
-          <Link to="/" className={location.pathname === '/' ? 'active' : ''} onClick={() => setMenuOpen(false)}>Home</Link>
+          <Link to="/" className={location.pathname === '/' && !location.hash ? 'active' : ''} onClick={() => setMenuOpen(false)}>Home</Link>
           <Link to="/services" className={location.pathname === '/services' ? 'active' : ''} onClick={() => setMenuOpen(false)}>Services</Link>
-          <a href="#why" onClick={() => setMenuOpen(false)}>Why Us</a>
-          <a href="#faq" onClick={() => setMenuOpen(false)}>FAQ</a>
+          <Link to="/#why" className={location.hash === '#why' ? 'active' : ''} onClick={() => setMenuOpen(false)}>Why Us</Link>
+          <Link to="/#faq" className={location.hash === '#faq' ? 'active' : ''} onClick={() => setMenuOpen(false)}>FAQ</Link>
         </nav>
 
         <div className="navbar__actions">
@@ -65,10 +65,10 @@ export default function Navbar({ onContactOpen }) {
       {menuOpen && (
         <div className="navbar__mobile-menu">
           <nav>
-            <Link to="/" className={location.pathname === '/' ? 'active' : ''}>Home</Link>
-            <Link to="/services" className={location.pathname === '/services' ? 'active' : ''}>Services</Link>
-            <a href="#why">Why Us</a>
-            <a href="#faq">FAQ</a>
+            <Link to="/" className={location.pathname === '/' && !location.hash ? 'active' : ''} onClick={() => setMenuOpen(false)}>Home</Link>
+            <Link to="/services" className={location.pathname === '/services' ? 'active' : ''} onClick={() => setMenuOpen(false)}>Services</Link>
+            <Link to="/#why" onClick={() => setMenuOpen(false)}>Why Us</Link>
+            <Link to="/#faq" onClick={() => setMenuOpen(false)}>FAQ</Link>
           </nav>
           <button className="btn-primary" onClick={() => { onContactOpen(); setMenuOpen(false) }}>
             Get in Touch →
