@@ -3,7 +3,7 @@
   <h1>Marpx AI</h1>
   <p><strong>We don't just talk AI. We build it.</strong></p>
   <p>
-    <a href="https://marpx.ai">Website</a> · 
+    <a href="https://marpxai.vercel.app">Website</a> · 
     <a href="mailto:marpxstudio@gmail.com">Contact Us</a> · 
     <a href="https://x.com/MarpxAI">X (Twitter)</a> · 
     <a href="https://www.linkedin.com/in/murugayesu">LinkedIn</a> · 
