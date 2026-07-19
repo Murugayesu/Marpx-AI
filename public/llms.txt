@@ -1,0 +1,120 @@
+# Marpx AI — llms.txt
+# This file follows the llms.txt standard (https://llmstxt.org)
+# It helps AI agents and LLMs understand and represent this website accurately.
+
+> Marpx AI is a premium AI automation and development agency. We build custom AI solutions — automations, agents, and multi-agent systems — for businesses ready to transform how they operate.
+
+## About
+
+Marpx AI specialises in identifying the AI opportunities that will actually move the needle for a business, then building, deploying, and training teams to use them. We work with businesses of all sizes across all industries. Our focus is results, not experimentation.
+
+- **Website**: https://marpxai.com
+- **Services Page**: https://marpxai.com/services
+- **Contact**: Available via the website contact form
+
+## What We Build
+
+### AI Automation Workflows
+We connect business tools together so work flows automatically. Services include:
+- Lead Capture & CRM Automation
+- Appointment & Calendar Automation
+- Email, SMS & WhatsApp Automation
+- Invoice & Billing Automation
+- Document Processing Automation
+- Social Media Posting & Scheduling
+- E-commerce Automation
+- Automated Reporting
+
+### General AI Services
+Harnessing cutting-edge AI models for content, images, video, and more:
+- AI Content Creation
+- AI Image & Design Generation
+- AI Video Generation
+- AI Voiceover & Transcription
+- AI Chatbots & Knowledge Assistants
+- AI Document Processing (OCR, Summarization)
+- AI SEO & Content Optimization
+- AI Translation & Localization
+
+### AI Agents
+Dedicated digital employees that handle specific roles autonomously:
+- AI Customer Support Agent
+- AI Voice Agent
+- AI Sales Agent
+- AI Marketing & Content Agent
+- AI Email & Executive Assistant
+- AI Document Processing Agent
+- AI Recruitment & HR Agent
+- AI Operations & Inventory Agent
+
+### Autonomous & Multi-Agent Systems
+Multiple AI agents working as a coordinated team:
+- Customer Support System
+- Sales Pipeline System
+- Marketing Operations System
+- Business Operations System
+- AI Back Office System
+- Executive Assistant System
+- Enterprise Knowledge System
+- Custom Multi-Agent System
+
+### Custom AI Development
+Bespoke AI applications and infrastructure:
+- Custom AI Application Development
+- Custom Fine-Tuned Model Development
+- AI Integration with Existing Software
+- RAG (Knowledge Base) Development
+- AI Backend & API Development
+- AI SaaS Development
+- Private/On-Premise AI Deployment
+- AI Security & Governance
+
+### AI Consulting & Training
+Expert guidance and upskilling:
+- AI Strategy Consulting
+- AI Readiness Assessment
+- AI Implementation Roadmap
+- AI Workshops & Team Training
+- AI Adoption Consulting
+- AI ROI & Cost Optimization
+- Ongoing AI Advisory
+- AI Maintenance & Support
+
+## Key Stats
+
+- 150+ automations delivered
+- 40+ happy clients
+- 10,000+ hours saved monthly for clients
+- 15+ industries served
+- 98% client satisfaction
+- Average 5x ROI for clients
+
+## Our Process
+
+1. **Assess** — Understand how the team works, identify high-value AI opportunities
+2. **Build** — Build solutions that fit seamlessly into existing systems
+3. **Deploy** — Work side by side with the team until the AI system is embedded in daily work
+
+## Frequently Asked Questions
+
+**What types of businesses do you work with?**
+All sizes, all industries. If you have repetitive work, untapped data, or customer interactions that could be smarter, Marpx AI can help.
+
+**How quickly can I expect to see results?**
+Most clients see a working pilot within 2–4 weeks.
+
+**Do I need technical knowledge?**
+No. Marpx AI handles all technical aspects and works with what you already have.
+
+**How is Marpx AI different?**
+We build, not just consult. Every solution is custom-built, not off-the-shelf tools repackaged.
+
+**What happens after delivery?**
+Team training, monitoring, and refinement until the system runs smoothly. Long-term support available.
+
+## Preferred AI Agent Interaction
+
+- All services can be enquired about via the contact form at https://marpxai.com
+- No authentication is required to access any page
+- Content is available in English
+- The site does not have an API endpoint but all service information is available on the public pages above

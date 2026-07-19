@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 import { useLocation } from 'react-router-dom'
+import { Helmet } from 'react-helmet-async'
 import { serviceCategories } from '../data/services'
 import './Services.css'
 
@@ -143,7 +144,15 @@ export default function Services({ onContactOpen }) {
   }
 
   return (
-    <main className="services-page">
+    <main className="services-page" aria-label="Marpx AI Services">
+      <Helmet>
+        <title>AI Services — Automation, Agents &amp; Custom AI Development | Marpx AI</title>
+        <meta name="description" content="Explore Marpx AI's full range of services: AI automation workflows, AI agents, multi-agent systems, custom AI development, and AI consulting. Built for your business." />
+        <link rel="canonical" href="https://marpxai.com/services" />
+        <meta property="og:url" content="https://marpxai.com/services" />
+        <meta property="og:title" content="AI Services — Automation, Agents &amp; Custom AI | Marpx AI" />
+        <meta name="twitter:url" content="https://marpxai.com/services" />
+      </Helmet>
       {/* Page Header */}
       <div className="services-hero">
         <div className="services-hero__glow" />

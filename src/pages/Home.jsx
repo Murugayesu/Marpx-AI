@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
+import { Helmet } from 'react-helmet-async'
 import { serviceCategories } from '../data/services'
 import './Home.css'
 
@@ -142,6 +143,15 @@ export default function Home({ onContactOpen }) {
 
   return (
     <main>
+      <Helmet>
+        <title>Marpx AI — We Build AI That Works | AI Automation &amp; Agents</title>
+        <meta name="description" content="Marpx AI builds custom AI automations, AI agents, and multi-agent systems for businesses ready to transform. 150+ automations delivered. 5x average ROI." />
+        <link rel="canonical" href="https://marpxai.com/" />
+        <meta property="og:url" content="https://marpxai.com/" />
+        <meta property="og:title" content="Marpx AI — We Build AI That Works" />
+        <meta name="twitter:url" content="https://marpxai.com/" />
+      </Helmet>
+
       {/* ===== HERO ===== */}
       <section className="hero">
         <HeroCanvas />
@@ -174,7 +184,7 @@ export default function Home({ onContactOpen }) {
       </section>
 
       {/* ===== WHY MARPX ===== */}
-      <section className="section-padding why-section" id="why">
+      <section className="section-padding why-section" id="why" aria-label="Why choose Marpx AI">
         <div className="container">
           <div className="section-header reveal">
             <span className="eyebrow">The Problem</span>
@@ -204,7 +214,7 @@ export default function Home({ onContactOpen }) {
       </section>
 
       {/* ===== PROCESS ===== */}
-      <section className="section-padding process-section">
+      <section className="section-padding process-section" aria-label="Our process">
         <div className="container">
           <div className="section-header reveal">
             <span className="eyebrow">Our Process</span>
@@ -228,7 +238,7 @@ export default function Home({ onContactOpen }) {
       </section>
 
       {/* ===== SERVICES OVERVIEW ===== */}
-      <section className="section-padding services-overview">
+      <section className="section-padding services-overview" aria-label="What we build">
         <div className="container">
           <div className="section-header reveal">
             <span className="eyebrow">What We Build</span>
@@ -275,7 +285,7 @@ export default function Home({ onContactOpen }) {
       </section>
 
       {/* ===== TESTIMONIALS ===== */}
-      <section className="section-padding testimonials-section">
+      <section className="section-padding testimonials-section" aria-label="Client testimonials">
         <div className="container">
           <div className="section-header reveal">
             <span className="eyebrow">What Clients Say</span>
@@ -297,7 +307,7 @@ export default function Home({ onContactOpen }) {
       </section>
 
       {/* ===== FAQ ===== */}
-      <section className="section-padding faq-section" id="faq">
+      <section className="section-padding faq-section" id="faq" aria-label="Frequently asked questions">
         <div className="container">
           <div className="section-header reveal">
             <span className="eyebrow">FAQ</span>
