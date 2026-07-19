@@ -146,10 +146,10 @@ export default function Home({ onContactOpen }) {
       <Helmet>
         <title>Marpx AI — We Build AI That Works | AI Automation &amp; Agents</title>
         <meta name="description" content="Marpx AI builds custom AI automations, AI agents, and multi-agent systems for businesses ready to transform. 150+ automations delivered. 5x average ROI." />
-        <link rel="canonical" href="https://marpxai.com/" />
-        <meta property="og:url" content="https://marpxai.com/" />
+        <link rel="canonical" href="https://marpxai.vercel.app/" />
+        <meta property="og:url" content="https://marpxai.vercel.app/" />
         <meta property="og:title" content="Marpx AI — We Build AI That Works" />
-        <meta name="twitter:url" content="https://marpxai.com/" />
+        <meta name="twitter:url" content="https://marpxai.vercel.app/" />
       </Helmet>
 
       {/* ===== HERO ===== */}

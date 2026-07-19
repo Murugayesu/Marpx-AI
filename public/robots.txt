@@ -73,4 +73,4 @@ Disallow: /internal/
 Disallow: /*.json$
 
 # ── Sitemap ─────────────────────────────────────────────────
-Sitemap: https://marpxai.com/sitemap.xml
+Sitemap: https://marpxai.vercel.app/sitemap.xml
