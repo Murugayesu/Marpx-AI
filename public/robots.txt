@@ -1,6 +1,6 @@
 # ============================================================
 #  Marpx AI — robots.txt
-#  Last updated: 2026-07-19
+#  Last updated: 2026-07-20
 # ============================================================
 
 # ── Traditional search engine crawlers ──────────────────────
@@ -70,7 +70,6 @@ Disallow: /
 User-agent: *
 Disallow: /admin/
 Disallow: /internal/
-Disallow: /*.json$
 
 # ── Sitemap ─────────────────────────────────────────────────
 Sitemap: https://marpxai.vercel.app/sitemap.xml
